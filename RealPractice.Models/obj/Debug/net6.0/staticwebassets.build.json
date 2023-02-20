@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "R7gokzQ6Er5r2a8lad8CO6kY8PCIsZsfr183nN0zkSA=",
+  "Source": "RealPractice.Models",
+  "BasePath": "_content/RealPractice.Models",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RealPractice.Models\\wwwroot",
+      "Source": "RealPractice.Models",
+      "ContentRoot": "F:\\PracticeWithVideo-.Net\\RealPractice\\RealPractice.Models\\wwwroot\\",
+      "BasePath": "_content/RealPractice.Models",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\PracticeWithVideo-.Net\\RealPractice\\RealPractice.Models\\obj\\Debug\\net6.0\\scopedcss\\bundle\\RealPractice.Models.styles.css",
+      "SourceId": "RealPractice.Models",
+      "SourceType": "Computed",
+      "ContentRoot": "F:\\PracticeWithVideo-.Net\\RealPractice\\RealPractice.Models\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/RealPractice.Models",
+      "RelativePath": "RealPractice.Models.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "F:\\PracticeWithVideo-.Net\\RealPractice\\RealPractice.Models\\obj\\Debug\\net6.0\\scopedcss\\bundle\\RealPractice.Models.styles.css"
+    },
+    {
+      "Identity": "F:\\PracticeWithVideo-.Net\\RealPractice\\RealPractice.Models\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RealPractice.Models.bundle.scp.css",
+      "SourceId": "RealPractice.Models",
+      "SourceType": "Computed",
+      "ContentRoot": "F:\\PracticeWithVideo-.Net\\RealPractice\\RealPractice.Models\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/RealPractice.Models",
+      "RelativePath": "RealPractice.Models.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "F:\\PracticeWithVideo-.Net\\RealPractice\\RealPractice.Models\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RealPractice.Models.bundle.scp.css"
+    },
+    {
+      "Identity": "F:\\PracticeWithVideo-.Net\\RealPractice\\RealPractice.Models\\wwwroot\\background.png",
+      "SourceId": "RealPractice.Models",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\PracticeWithVideo-.Net\\RealPractice\\RealPractice.Models\\wwwroot\\",
+      "BasePath": "_content/RealPractice.Models",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "F:\\PracticeWithVideo-.Net\\RealPractice\\RealPractice.Models\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "RealPractice.Models",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\PracticeWithVideo-.Net\\RealPractice\\RealPractice.Models\\wwwroot\\",
+      "BasePath": "_content/RealPractice.Models",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+F:\PracticeWithVideo-.Net\RealPractice\RealPractice.Utility\bin\Debug\net6.0\RealProject.Utility.deps.json
+F:\PracticeWithVideo-.Net\RealPractice\RealPractice.Utility\bin\Debug\net6.0\RealProject.Utility.runtimeconfig.json
+F:\PracticeWithVideo-.Net\RealPractice\RealPractice.Utility\bin\Debug\net6.0\RealProject.Utility.dll
+F:\PracticeWithVideo-.Net\RealPractice\RealPractice.Utility\bin\Debug\net6.0\RealProject.Utility.pdb
+F:\PracticeWithVideo-.Net\RealPractice\RealPractice.Utility\obj\Debug\net6.0\RealProject.Utility.csproj.AssemblyReference.cache
+F:\PracticeWithVideo-.Net\RealPractice\RealPractice.Utility\obj\Debug\net6.0\RealProject.Utility.GeneratedMSBuildEditorConfig.editorconfig
+F:\PracticeWithVideo-.Net\RealPractice\RealPractice.Utility\obj\Debug\net6.0\RealProject.Utility.AssemblyInfoInputs.cache
+F:\PracticeWithVideo-.Net\RealPractice\RealPractice.Utility\obj\Debug\net6.0\RealProject.Utility.AssemblyInfo.cs
+F:\PracticeWithVideo-.Net\RealPractice\RealPractice.Utility\obj\Debug\net6.0\RealProject.Utility.csproj.CoreCompileInputs.cache
+F:\PracticeWithVideo-.Net\RealPractice\RealPractice.Utility\obj\Debug\net6.0\RealProject.Utility.dll
+F:\PracticeWithVideo-.Net\RealPractice\RealPractice.Utility\obj\Debug\net6.0\refint\RealProject.Utility.dll
+F:\PracticeWithVideo-.Net\RealPractice\RealPractice.Utility\obj\Debug\net6.0\RealProject.Utility.pdb
+F:\PracticeWithVideo-.Net\RealPractice\RealPractice.Utility\obj\Debug\net6.0\RealProject.Utility.genruntimeconfig.cache
+F:\PracticeWithVideo-.Net\RealPractice\RealPractice.Utility\obj\Debug\net6.0\ref\RealProject.Utility.dll
